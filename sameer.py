@@ -13,3 +13,4 @@ b=8
 print((a+b)%3)
 print(str(a))
 print(type(a))
+print("sameer".upper())
